@@ -1,6 +1,6 @@
 # Python-API-Challenge
 
-This repository uses the [Open Weather Map API] (https://openweathermap.org/api), and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+This repository uses the [Open Weather Map API](https://openweathermap.org/api), and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 Using Pandas, Matplotlibs, a Python script was created to build a series of scatter plots to showcase the following relationships:
   - Temperature (F) vs. Latitude
